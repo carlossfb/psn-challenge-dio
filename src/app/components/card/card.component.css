@@ -1,0 +1,16 @@
+.card__container{
+	display: flex;
+  height: 350px;
+  margin: 10px 0px;
+  overflow: hidden;
+	border-radius:10px;
+  z-index: 2;
+}
+
+.card__image{
+	transition: transform .8s;
+}
+
+.card__image:hover{
+	transform: scale(1.1);
+}

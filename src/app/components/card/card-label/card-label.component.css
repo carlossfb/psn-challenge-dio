@@ -1,0 +1,14 @@
+.card-label__container{
+  background-color: rgba(0, 0, 0, 0.781);
+  padding:10px;
+  color: #ffffffd7;
+  position:relative;
+  top: 13rem;
+  margin: 0 -80px;
+}
+
+.card-label__container > a{
+  text-decoration: none;
+}
+
+

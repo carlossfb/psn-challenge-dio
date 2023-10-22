@@ -1,0 +1,28 @@
+.card-value__container{
+  background-color: rgba(0, 0, 0, 0.781);
+  border-radius: 5px;
+  padding:5px 15px;
+  color: #ffffffe3;
+  position:relative;
+  top: 18rem;
+  margin: 0rem -16.3rem;
+}
+
+.card-value__title > h3{
+  font-weight: 600;
+  margin: 0 20px;
+}
+
+.card-value__price{
+  display: flex;
+  padding: 7px;
+}
+
+.card-value__price > div{
+  padding:3px;
+  color:#ffffff56;
+}
+
+.card-value__price > div > span{
+  color:aqua;
+}
